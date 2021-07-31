@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:startColor="@color/splashScreenStart"
+        android:centerColor="@color/splashScreenCenter"
+        android:endColor="@color/splashScreenEnd"
+        android:angle="270"
+        android:type="linear"/>
+
+</shape>

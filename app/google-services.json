@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978251768139",
+    "project_id": "shopay-5a2d3",
+    "storage_bucket": "shopay-5a2d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978251768139:android:ec84995ffcb64c7a7c88ce",
+        "android_client_info": {
+          "package_name": "com.SGTechnologies.shopay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978251768139-sue9fftpa48v1njt4kqbfmh3tlmcrgei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_3GXkQzbd1Unrd5UgL8adzLl3x4vfHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978251768139-sue9fftpa48v1njt4kqbfmh3tlmcrgei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
